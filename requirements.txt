@@ -1,0 +1,22 @@
+# Flask (Backend for Event Recommender System)
+Flask==3.0.0
+
+# Streamlit (Frontend for Chatbot)
+streamlit==1.30.0
+
+# Machine Learning & Data Processing
+numpy==1.24.3
+pandas==2.1.3
+scikit-learn==1.3.2
+
+# Pickle (Model Loading - Standard Library)
+# No need to install separately as it is built into Python
+
+# Ollama AI (Chatbot Model)
+ollama==0.1.0
+
+# Web & HTML Rendering
+Jinja2==3.1.2
+
+# Additional dependencies (if required)
+requests==2.31.0
